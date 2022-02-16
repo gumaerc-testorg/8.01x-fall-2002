@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource provide solutions to problem Exam 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/847bd745bd9a3d502e599e323bdc20e7_1pract_sols.pdf
+file: /media/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/847bd745bd9a3d502e599e323bdc20e7_1pract_sols.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 1pract_sols.pdf
 uid: 847bd745-bd9a-3d50-2e59-9e323bdc20e7

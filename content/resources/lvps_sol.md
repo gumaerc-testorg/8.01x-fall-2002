@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/a51b259f154994ee1eb37773d7cb5557_lvps_sol.pdf
+file: /media/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/a51b259f154994ee1eb37773d7cb5557_lvps_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lvps_sol.pdf
 uid: a51b259f-1549-94ee-1eb3-7773d7cb5557
