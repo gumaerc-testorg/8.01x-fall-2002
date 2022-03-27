@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 70ce862e-9814-4ddb-a6a3-0510e258146e
 resourcetype: Document
 title: expt_es_problm_1.pdf
 uid: 3c0a5515-1b75-0849-453d-6be0c6842577

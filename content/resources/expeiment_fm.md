@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 70ce862e-9814-4ddb-a6a3-0510e258146e
 resourcetype: Document
 title: expeiment_fm.pdf
 uid: a324d078-8f1e-7ca4-216f-2ae79c376090

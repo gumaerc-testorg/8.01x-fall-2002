@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 70ce862e-9814-4ddb-a6a3-0510e258146e
 resourcetype: Document
 title: expt_fo_sol.pdf
 uid: 20071c8c-8b28-7886-fc29-2e31abe26c49

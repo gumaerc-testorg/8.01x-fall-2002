@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 70ce862e-9814-4ddb-a6a3-0510e258146e
 resourcetype: Document
 title: abt_experiment.pdf
 uid: fa42ecd1-c7c9-73e0-f140-61509e97eda0

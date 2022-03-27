@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 200a7e41-26a7-1317-a96b-a727b7fcc90d
 resourcetype: Document
 title: sol8.pdf
 uid: c185c05f-73a0-3155-1853-5f3c20c0bbba

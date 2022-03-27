@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 70ce862e-9814-4ddb-a6a3-0510e258146e
 resourcetype: Document
 title: red_bx_tool_cont.pdf
 uid: 63adc3f2-56c8-fac6-38d8-b4c04d0fb3d5

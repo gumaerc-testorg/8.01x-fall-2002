@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0438632c-5c05-172a-947c-d8f10b05baef
 resourcetype: Document
 title: text_probs3.pdf
 uid: c7b3e4cc-502e-8af7-8629-d840ca5febd6

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: da202d3a-f83b-ad04-3813-f48a9e3b7f44
 resourcetype: Document
 title: stateq.pdf
 uid: 8a30d9ec-bec7-7049-9e6d-4c32a4489d32

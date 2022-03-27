@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: da202d3a-f83b-ad04-3813-f48a9e3b7f44
 resourcetype: Document
 title: strobe.pdf
 uid: f5d64c99-1c76-7a9c-6930-4a3707c9699d

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: da202d3a-f83b-ad04-3813-f48a9e3b7f44
 resourcetype: Document
 title: youngs_modulus.pdf
 uid: 760b2e58-87a5-f29c-67bd-0d9d78bf17ec

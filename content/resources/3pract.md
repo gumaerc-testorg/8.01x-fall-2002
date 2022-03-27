@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0438632c-5c05-172a-947c-d8f10b05baef
 resourcetype: Document
 title: 3pract.pdf
 uid: 0943bbbb-6751-476a-1f4b-eef780445182

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0438632c-5c05-172a-947c-d8f10b05baef
 resourcetype: Document
 title: 2pract_sols.pdf
 uid: 18b9b77e-19bc-08b6-a2a6-da19cf97ca5c
