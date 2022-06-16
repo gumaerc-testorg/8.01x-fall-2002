@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/b2278ee7389b2c60870069054d0ac872_expt_fm_problem.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/b2278ee7389b2c60870069054d0ac872_expt_fm_problem.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
