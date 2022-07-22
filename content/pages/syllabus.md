@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section gives information on text, exams, problem sets, experiments,
+  grading, and calendar table.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ae20c0c1-8cd9-f606-a913-14e9282c94d6
 ---
@@ -32,7 +36,7 @@ Courses similar to these have been presented at Caltech, Harvard, and Ecole des 
 
 All necessary materials can be acquired from an online electronics supply source.
 
-Besides the course syllabi and notes, and instructions for 12 basic constructions and [experiments]({{< baseurl >}}/pages/labs) (Dourmashkin and King), there is a complete collection of 50 experiments (King, J. G., and A. P. French. _Physics 8.01X and 8.02X Experiment Instructions_. MIT Physics Department, 1998) that have been used at various times. Finally, there was a published book, _ZAP!_, designed to be used in conjunction with a version of these introductory physics courses taught at Caltech: Morrison, Philip, Phylis Morrison, and John King. _Zap!: A Hands-on Introduction to Electricity & Magnetism_. 1991. Preliminary ed. ISBN: 9780892784141.
+Besides the course syllabi and notes, and instructions for 12 basic constructions and {{% resource_link 70ce862e-9814-4ddb-a6a3-0510e258146e "experiments" %}} (Dourmashkin and King), there is a complete collection of 50 experiments (King, J. G., and A. P. French. _Physics 8.01X and 8.02X Experiment Instructions_. MIT Physics Department, 1998) that have been used at various times. Finally, there was a published book, _ZAP!_, designed to be used in conjunction with a version of these introductory physics courses taught at Caltech: Morrison, Philip, Phylis Morrison, and John King. _Zap!: A Hands-on Introduction to Electricity & Magnetism_. 1991. Preliminary ed. ISBN: 9780892784141.
 
 Physics I, 8.01X, covers the classical Newtonian mechanics syllabus of all the MIT first term physics subjects along with a set of take-home experiments. Topics covered include estimation, kinematics, force, Newton's Laws, energy, work, heat, momentum, collisions, torque, angular momentum, properties of materials, kinetic theory, introduction to the atom, and special relativity.
 
