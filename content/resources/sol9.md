@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol9.pdf
 uid: d20af172-2cb1-92a5-6e60-90c4631da354
 ---
 This resource provide solutions to problem set 9.
-

@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: soldering_leads.pdf
 uid: d8de5166-31b6-e715-2b34-d87b89344bed
 ---
 This resource gives information on soldering leads to lamps.
-

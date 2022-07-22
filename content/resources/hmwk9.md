@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hmwk9.pdf
 uid: a44c7012-0ac6-3bef-2de6-89e33c73c158
 ---
 This resource contains problems young and freedman.
-

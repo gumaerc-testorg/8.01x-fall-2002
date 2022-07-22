@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: text_probs3.pdf
 uid: c7b3e4cc-502e-8af7-8629-d840ca5febd6
 ---
 This resource provide solutions to practice exam 3.
-

@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_pract_sol.pdf
 uid: 2f393c02-144b-e3bd-d113-75b4b5778130
 ---
 This resource contains problems on angular momentum.
-

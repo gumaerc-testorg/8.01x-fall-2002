@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: expt_es_problem_1.pdf
 uid: c937b715-c50d-9fbb-45ed-d49b28b63244
 ---
 This resource contains problems on experiment es: estimating a second.
-

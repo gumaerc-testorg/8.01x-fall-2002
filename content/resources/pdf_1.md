@@ -6,6 +6,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pdf_1.pdf
 uid: b8ce4e36-b3d3-0cba-0a1e-40b91173a8dd
 ---
 This resource gives information on experiment es, making clip leads, exercise mm, experiment fo, and experiment et.
-

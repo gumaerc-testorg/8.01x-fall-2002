@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: red_bx_tool_cont.pdf
 uid: 63adc3f2-56c8-fac6-38d8-b4c04d0fb3d5
 ---
 This resource gives information on red box top tray, and toolkit.
-

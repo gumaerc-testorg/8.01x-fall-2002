@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: expeiment_fl.pdf
 uid: 28b8ae8e-b17b-ab02-ad91-5a11ae47aed4
 ---
 This resource gives information on experiment, and finding the time constant.
-

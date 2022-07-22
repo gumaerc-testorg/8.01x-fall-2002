@@ -6,6 +6,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: building_lvps.pdf
 uid: 3516c910-33e7-c4f5-745d-d50ab024aad6
 ---
 This resource gives information on project lvps, wall transformer, bridge rectifier, and voltage regulator.
-

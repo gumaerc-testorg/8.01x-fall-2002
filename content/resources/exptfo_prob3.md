@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exptfo_prob3.pdf
 uid: a8e7ab6a-6e2f-362e-f41c-1fdd7d8ec410
 ---
 This resource contains problems on experiment falling object.
-

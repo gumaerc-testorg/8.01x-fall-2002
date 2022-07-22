@@ -6,6 +6,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: expeiment_fo.pdf
 uid: f0527ef4-ce14-d788-94d0-a751b8e2cfa1
 ---
 This resource gives information on  principle, theory, and step-by-step assembly of experiment fo apparatus.
-

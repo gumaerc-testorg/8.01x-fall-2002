@@ -6,6 +6,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: expeiment_cf.pdf
 uid: 83d7566e-670a-137a-5946-a7038c969519
 ---
 This resource gives information on kinematics of circular motion, velocity and angular velocity, uniform circular motion, and radial acceleration.
-

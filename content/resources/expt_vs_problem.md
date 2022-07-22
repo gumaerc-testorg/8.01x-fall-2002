@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: expt_vs_problem.pdf
 uid: a056f6a3-e071-767d-4f76-20bca6a59d0c
 ---
 This resource contains problems on experiment vs: vibrating systems.
-

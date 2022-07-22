@@ -6,6 +6,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: expeiment_et.pdf
 uid: 61e34e47-e30b-d052-f4e3-26e34fa9ae13
 ---
 This resource gives information on calibrating the thermistor, and measuring the specific heat of water.
-

@@ -6,6 +6,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: making_clip_lead.pdf
 uid: 112523d9-797f-c229-f482-fefe87f26b7b
 ---
 This resource gives information on soldering, soldering iron, and making clip leads.
-

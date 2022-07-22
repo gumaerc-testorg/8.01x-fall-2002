@@ -6,6 +6,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: abt_experiment.pdf
 uid: fa42ecd1-c7c9-73e0-f140-61509e97eda0
 ---
 This resource gives information on partners, tool kits, red boxes, experiment write-ups, and safety.
-

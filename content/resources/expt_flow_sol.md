@@ -5,6 +5,7 @@ file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fa
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: expt_flow_sol.pdf
 uid: a3bf04bb-f1d2-5aaa-8adc-a1266f04ea35
 ---
 This resource provide solutions to problems of expeiment flow analysis.
-
