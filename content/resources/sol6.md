@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provide solutions to problem set 6.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/10be93a916bff3d609c9743f0d6c4ba5_sol6.pdf
+file_size: 20331
 file_type: application/pdf
 learning_resource_types:
 - Assignments

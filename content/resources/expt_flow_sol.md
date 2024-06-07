@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provide solutions to problems of expeiment flow analysis.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/a3bf04bbf1d25aaa8adca1266f04ea35_expt_flow_sol.pdf
+file_size: 200804
 file_type: application/pdf
 learning_resource_types:
 - Labs

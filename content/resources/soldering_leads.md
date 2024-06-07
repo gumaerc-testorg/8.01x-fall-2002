@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on soldering leads to lamps.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/d8de516631b6e7152b34d87b89344bed_soldering_leads.pdf
+file_size: 30693
 file_type: application/pdf
 learning_resource_types:
 - Labs

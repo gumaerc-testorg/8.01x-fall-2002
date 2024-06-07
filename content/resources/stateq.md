@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on differnt steps to solve static equilibrium
   problems.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/8a30d9ecbec770499e6d4c32a4489d32_stateq.pdf
+file_size: 60836
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
