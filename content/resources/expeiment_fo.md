@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on  principle, theory, and step-by-step
   assembly of experiment fo apparatus.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/f0527ef4ce14d78894d0a751b8e2cfa1_expeiment_fo.pdf
+file_size: 843033
 file_type: application/pdf
 learning_resource_types:
 - Labs

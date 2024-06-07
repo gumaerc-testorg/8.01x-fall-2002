@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on young and freedman.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/3df05580e9be42f39465107ac0fdbc48_hmwk5.pdf
+file_size: 34838
 file_type: application/pdf
 learning_resource_types:
 - Assignments

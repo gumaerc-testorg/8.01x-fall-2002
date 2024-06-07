@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains problems on experiment vs: vibrating systems.'
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/a056f6a3e071767d4f7620bca6a59d0c_expt_vs_problem.pdf
+file_size: 13893
 file_type: application/pdf
 learning_resource_types:
 - Labs
