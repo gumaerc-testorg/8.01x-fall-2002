@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on experiment centripetal force.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/750a24a7da67897e2ebb057038873630_problem_expt_cf.pdf
+file_size: 28588
 file_type: application/pdf
 learning_resource_types:
 - Labs

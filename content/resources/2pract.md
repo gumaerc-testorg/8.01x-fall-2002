@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on static equilibrium, and centripetal
   force.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/5cf3bb4cb87d72cd3f680fd12baa6b1c_2pract.pdf
+file_size: 75509
 file_type: application/pdf
 learning_resource_types:
 - Exams

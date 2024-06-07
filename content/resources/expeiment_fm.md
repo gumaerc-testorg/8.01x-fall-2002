@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on about forces and fields.
 file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/a324d0788f1e7ca4216f2ae79c376090_expeiment_fm.pdf
+file_size: 215937
 file_type: application/pdf
 learning_resource_types:
 - Labs
