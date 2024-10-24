@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on measuring voltage, resistance and
   current with the multimeter, and about the magnetic multimeter.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/24aa7634cfd85d2209e96135560c80d1_exercise_mm.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/24aa7634cfd85d2209e96135560c80d1_exercise_mm.pdf
 file_size: 692072
 file_type: application/pdf
 learning_resource_types:
