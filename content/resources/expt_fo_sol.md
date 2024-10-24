@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provide solutions to problems of experiment falling object.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/20071c8c8b287886fc292e31abe26c49_expt_fo_sol.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/20071c8c8b287886fc292e31abe26c49_expt_fo_sol.pdf
 file_size: 95161
 file_type: application/pdf
 learning_resource_types:

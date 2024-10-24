@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on finding the time constant.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/183619b662d485bd88cc71e94f5e3a69_expt_flow.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/183619b662d485bd88cc71e94f5e3a69_expt_flow.pdf
 file_size: 61527
 file_type: application/pdf
 learning_resource_types:

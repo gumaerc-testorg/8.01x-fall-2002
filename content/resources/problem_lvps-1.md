@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/e02b7805c1696c7f281bf1dba5f0358c_problem_LVPS.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/e02b7805c1696c7f281bf1dba5f0358c_problem_LVPS.pdf
 file_size: 35464
 file_type: application/octet-stream
 learning_resource_types:
