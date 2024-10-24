@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This reource provide solution of angular momentum experiments.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/7da667e25728c4775e1bb8f7c9cc5416_expt_am_sol.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/7da667e25728c4775e1bb8f7c9cc5416_expt_am_sol.pdf
 file_size: 311117
 file_type: application/pdf
 learning_resource_types:

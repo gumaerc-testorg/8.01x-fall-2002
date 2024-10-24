@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/233b7d4ec09bb948d050e9abaeabb735_expt_et_prob.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/233b7d4ec09bb948d050e9abaeabb735_expt_et_prob.pdf
 file_size: 22178
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on angular momentum.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/442714d6e31df90bec14d059c4a19acf_expt_am_problem.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/442714d6e31df90bec14d059c4a19acf_expt_am_problem.pdf
 file_size: 30274
 file_type: application/pdf
 learning_resource_types:
