@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on different energies related with jumping
   from a height.
-file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/28cad245e198f1513b93728c05ea5c41_jumping.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/28cad245e198f1513b93728c05ea5c41_jumping.pdf
 file_size: 50439
 file_type: application/pdf
 learning_resource_types: []
