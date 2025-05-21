@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on theory, apparatus, and assembling
   the apparatus.
-file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/18d77c3be587b524f0fe16a765b62fd1_expeiment_am.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/18d77c3be587b524f0fe16a765b62fd1_expeiment_am.pdf
 file_size: 250158
 file_type: application/pdf
 learning_resource_types:

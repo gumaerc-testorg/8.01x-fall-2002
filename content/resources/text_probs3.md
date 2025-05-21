@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provide solutions to practice exam 3.
-file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/c7b3e4cc502e8af78629d840ca5febd6_text_probs3.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/c7b3e4cc502e8af78629d840ca5febd6_text_probs3.pdf
 file_size: 23895
 file_type: application/pdf
 learning_resource_types:

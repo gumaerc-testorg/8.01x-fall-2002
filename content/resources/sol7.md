@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provide solutions to problem set 7.
-file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/f977f64ac693d67fce3624138882fd0f_sol7.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/f977f64ac693d67fce3624138882fd0f_sol7.pdf
 file_size: 58332
 file_type: application/pdf
 learning_resource_types:
