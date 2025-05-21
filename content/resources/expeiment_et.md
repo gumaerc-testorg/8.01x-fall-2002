@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on calibrating the thermistor, and measuring
   the specific heat of water.
-file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/61e34e47e30bd052f4e326e34fa9ae13_expeiment_et.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/61e34e47e30bd052f4e326e34fa9ae13_expeiment_et.pdf
 file_size: 324760
 file_type: application/pdf
 learning_resource_types:

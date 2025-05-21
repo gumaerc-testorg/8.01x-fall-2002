@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on partners, tool kits, red boxes, experiment
   write-ups, and safety.
-file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/fa42ecd1c7c973e0f14061509e97eda0_abt_experiment.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/fa42ecd1c7c973e0f14061509e97eda0_abt_experiment.pdf
 file_size: 38232
 file_type: application/pdf
 learning_resource_types:

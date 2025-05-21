@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on kits of all expriments.
-file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/f187bd1980dcc94012bc93544a53e18a_kit_part_list.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/f187bd1980dcc94012bc93544a53e18a_kit_part_list.pdf
 file_size: 101434
 file_type: application/pdf
 learning_resource_types:

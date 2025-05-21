@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provide solutions to problems of experiment fm.
-file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/8fee42428d368aa8be0a40666ca4fc0c_expt_mf_sol.pdf
+file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/8fee42428d368aa8be0a40666ca4fc0c_expt_mf_sol.pdf
 file_size: 86394
 file_type: application/pdf
 learning_resource_types:
