@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource provide solutions to problems of estimating a second experiment.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/08940274b32984881ad88477c60359c5_expt_es_sol.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/08940274b32984881ad88477c60359c5_expt_es_sol.pdf
 file_size: 936038
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource gives information on kinematics of circular motion, velocity
   and angular velocity, uniform circular motion, and radial acceleration.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/83d7566e670a137a5946a7038c969519_expeiment_cf.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/83d7566e670a137a5946a7038c969519_expeiment_cf.pdf
 file_size: 217002
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
