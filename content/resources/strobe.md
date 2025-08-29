@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on falling ball.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/f5d64c991c767a9c69304a3707c9699d_strobe.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/f5d64c991c767a9c69304a3707c9699d_strobe.pdf
 file_size: 51382
 file_type: application/pdf
 learning_resource_types: []
