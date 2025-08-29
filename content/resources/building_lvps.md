@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource gives information on project lvps, wall transformer, bridge
   rectifier, and voltage regulator.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/3516c91033e7c4f5745dd50ab024aad6_building_lvps.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/3516c91033e7c4f5745dd50ab024aad6_building_lvps.pdf
 file_size: 701743
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

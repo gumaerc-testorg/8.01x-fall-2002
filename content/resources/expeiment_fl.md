@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource gives information on experiment, and finding the time constant.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/28b8ae8eb17bab02ad915a11ae47aed4_expeiment_fl.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/28b8ae8eb17bab02ad915a11ae47aed4_expeiment_fl.pdf
 file_size: 2639986
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

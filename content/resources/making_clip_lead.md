@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource gives information on soldering, soldering iron, and making
   clip leads.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/112523d9797fc229f482fefe87f26b7b_making_clip_lead.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/112523d9797fc229f482fefe87f26b7b_making_clip_lead.pdf
 file_size: 114788
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource gives information on mass/spring oscillator.
-file: /courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/b7259d3a90a726766f02337fd3ed1f41_expeiment_vs.pdf
+file: /ol-ocw-studio-app/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/b7259d3a90a726766f02337fd3ed1f41_expeiment_vs.pdf
 file_size: 83785
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
