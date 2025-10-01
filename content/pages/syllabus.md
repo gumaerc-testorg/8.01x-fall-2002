@@ -53,7 +53,7 @@ This course will include three in-class quizzes and one final exam.
 Problem Sets
 ------------
 
-There will be a weekly problem set that consists of two parts: hand-written problems to be handed in, and [_Mastering Physics_](http://masteringphysics.com/) (not available to OCW users) problems to be answered online.
+There will be a weekly problem set that consists of two parts: hand-written problems to be handed in, and {{% resource_link "75552025-aa38-48ff-acd6-82503b57da65" "_Mastering Physics_" %}} (not available to OCW users) problems to be answered online.
 
 Experiments
 -----------
